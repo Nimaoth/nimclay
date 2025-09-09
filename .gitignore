@@ -36,8 +36,6 @@
 .vs
 *.wat
 *.wit
-*.c
-*.h
 uiae.txt
 
 nimcache
